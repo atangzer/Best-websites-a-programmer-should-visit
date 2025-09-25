@@ -291,6 +291,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible) : A collection of pure bash alternatives to external processes.
 - [25 Common Linux Bash Script Examples To Get You Started](https://www.hostinger.in/tutorials/bash-script-example) 
 - [SadServers: Like LeetCode for Linux](https://sadservers.com/scenarios) : Practice debugging using the shell and writing Bash scripts on Linux
+
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
